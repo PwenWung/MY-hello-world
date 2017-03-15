@@ -1,12 +1,10 @@
----
 #170315使用markdown、github心得#
-tags: markdown,心得,小书匠,github
----
-### [→music←](http://music.163.com/#/m/song?id=139774)
+
+### ~[→music←](http://music.163.com/#/m/song?id=139774)
 ## Markdwn小感想
 在招聘信息里面就有提到**markdown**这个东西，后面的准备周任务邮件里也对它更详细地描述。愚蠢的我在开始的两天急急忙忙地用**HTML**写了日志后才发现**markdown**不是这个，今天看了一下众多的编辑软件，选用了小匠书。
 
-![图片111][http://chuantu.biz/t5/50/1489564518x2728278960.png]
+![Markdown](http://p1.bpimg.com/1949/4b8eba3ff1efea4b.png)
 后来才真正领悟到了**markdown**的魅力所在：
 
  - 在HTML的基础上，更简单快捷智能人性化的一个格式
